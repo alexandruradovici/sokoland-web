@@ -1,0 +1,14 @@
+{
+  "name": "Sokoland",
+  "description": "Sokoland Game",
+  "launch_path": "/sokoland/index_emulat.html",
+  "icons": {
+    "128": "/sokoland/res/sokoland.png"
+  },
+  "orientation": "landscape",
+  "developer": {
+    "name": "IP Workshop",
+    "url": "http://www.facebook.com/sokolandgame"
+  },
+  "default_locale": "en"
+}
