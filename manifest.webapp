@@ -1,9 +1,9 @@
 {
   "name": "Sokoland",
   "description": "Sokoland Game",
-  "launch_path": "/sokoland/index_emulat.html",
+  "launch_path": "/sokoland-web/index.html",
   "icons": {
-    "128": "/sokoland/res/sokoland.png"
+    "128": "/sokoland-web/res/sokoland.png"
   },
   "orientation": "landscape",
   "developer": {
