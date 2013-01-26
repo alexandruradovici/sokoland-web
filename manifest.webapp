@@ -5,7 +5,7 @@
   "icons": {
     "128": "/sokoland-web/res/sokoland.png"
   },
-  "orientation": "landscape",
+  "orientation": "landscape", 
   "developer": {
     "name": "IP Workshop",
     "url": "http://www.facebook.com/sokolandgame"
